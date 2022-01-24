@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://priyaaadharshini.github.io/csb-2bcs2/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://priyaaadharshini.github.io/csb-2bcs2/static/js/main.634fdda1.chunk.js",
+    "main.js.map": "https://priyaaadharshini.github.io/csb-2bcs2/static/js/main.634fdda1.chunk.js.map",
+    "runtime-main.js": "https://priyaaadharshini.github.io/csb-2bcs2/static/js/runtime-main.1d68aba8.js",
+    "runtime-main.js.map": "https://priyaaadharshini.github.io/csb-2bcs2/static/js/runtime-main.1d68aba8.js.map",
+    "static/js/2.45c79a36.chunk.js": "https://priyaaadharshini.github.io/csb-2bcs2/static/js/2.45c79a36.chunk.js",
+    "static/js/2.45c79a36.chunk.js.map": "https://priyaaadharshini.github.io/csb-2bcs2/static/js/2.45c79a36.chunk.js.map",
+    "index.html": "https://priyaaadharshini.github.io/csb-2bcs2/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://priyaaadharshini.github.io/csb-2bcs2/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.45c79a36.chunk.js.LICENSE.txt": "https://priyaaadharshini.github.io/csb-2bcs2/static/js/2.45c79a36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d68aba8.js",
+    "static/js/2.45c79a36.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.634fdda1.chunk.js"
+  ]
+}
